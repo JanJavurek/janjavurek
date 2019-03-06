@@ -1,2 +1,2 @@
 # janjavurek
-Toto je ukázkový projekt.
+Toto je ukázka kódu.
